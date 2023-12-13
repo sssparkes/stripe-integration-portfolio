@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 100px; 
+}
+
+.App-header {
+  background-color: #007bff; 
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 10px;
+  font-size: 2em;
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+.App-link {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 1.2em;
+}
+
+.Content {
+  padding: 20px;
+}
+
+
